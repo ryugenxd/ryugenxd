@@ -1,6 +1,8 @@
 <div align="center">
-<h1> <img src="https://readme-typing-svg.herokuapp.com?size=35&width=400&lines=$_Ryugen_XD" alt="ryugenXD"/> </h1><br>
+<h1> <img src="https://readme-typing-svg.herokuapp.com?size=35&width=400&lines=$_Ryugen_XD" alt="ryugenXD"/> </h1>
+<p>
   👋 hi i'm ryugen i'm 18 years old 
+</p>
  <img width="300px"  src="https://i.pinimg.com/originals/b4/b1/64/b4b1640525ecadfa1030e6096f3ec842.gif" alt="xd">
 <br>
    <a href="https://www.facebook.com/wRyZ.freands.158.watded.daww"><br>
