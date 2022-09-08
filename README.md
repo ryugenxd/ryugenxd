@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://img.shields.io/github/followers/ryugenxd?color=green&logo=github&style=for-the-badge">
+<hr>
  <img width="300px"  src="https://i.pinimg.com/originals/b4/b1/64/b4b1640525ecadfa1030e6096f3ec842.gif" alt="xd">
 <br>
    <a href="https://www.facebook.com/wRyZ.freands.158.watded.daww"><br>
