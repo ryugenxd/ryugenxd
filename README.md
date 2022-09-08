@@ -10,8 +10,8 @@
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
+<br>   
+<img src="https://github-readme-stats.vercel.app/api?username=ryugenxd&show_icons=true&theme=radical" alt="statistik ryu">
 <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=ryugenXD&hide=contribs,prs&show_icons=true&hide_border=true&title_color=#000" />
-<br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryugenXD&layout=compact" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryugenXD&layout=compact&theme=radical" height="180"/>
 </div>
