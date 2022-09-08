@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
 <br>   
-<img src="https://github-readme-stats.vercel.app/api?username=ryugenxd&show_icons=true&theme=radical" alt="statistik ryu">
+<img src="https://github-readme-stats.vercel.app/api?username=ryugenxd&show_icons=true&theme=monokai" alt="statistik ryu">
 <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryugenXD&layout=compact&theme=radical" height="180"/>
 </div>
