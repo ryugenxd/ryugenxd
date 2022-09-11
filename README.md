@@ -12,7 +12,9 @@
 <!--<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
 --><img width="150px" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
 <!--<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
---></p>  
+-->
+</p>
+<img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ryugenxd&theme=monokai">  
 <img src="https://github-readme-stats.vercel.app/api?username=ryugenxd&show_icons=true&theme=monokai" alt="statistik ryu">
 <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryugenXD&layout=compact&theme=radical" height="180"/>
