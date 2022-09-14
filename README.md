@@ -15,7 +15,7 @@
 -->
 </p>
 <img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ryugenxd&theme=monokai">  
-<img src="https://github-readme-stats.vercel.app/api?username=ryugenxd&show_icons=true&theme=radical" alt="statistik ryu">
+<img src="https://github-readme-stats.vercel.app/api?username=ryugenxd&show_icons=true&theme=dark" alt="statistik ryu">
 <br>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryugenXD&layout=compact&theme=radical" height="180"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryugenXD&layout=compact&theme=dark" height="180"/>
 </div>
