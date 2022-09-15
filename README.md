@@ -1,5 +1,7 @@
 <div align="center">
 <img src="https://img.shields.io/github/followers/ryugenxd?color=crimson&logo=github&style=for-the-badge">
+<br>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ryugenxd&theme=dark">
 <hr>
  <img width="300px"  src="https://i.pinimg.com/originals/b4/b1/64/b4b1640525ecadfa1030e6096f3ec842.gif" alt="xd">
 <br>
