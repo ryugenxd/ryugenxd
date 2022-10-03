@@ -21,7 +21,7 @@
 <p>
 <img width="150px" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 </p>
-<img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ryugenxd&theme=monokai">  
+<img title="trophy" src="https://github-profile-trophy.vercel.app/?username=ryugenxd&theme=radical">  
 <img src="https://github-readme-stats.vercel.app/api?username=ryugenxd&show_icons=true&theme=radical" alt="statistik ryu">
 <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryugenXD&layout=compact&theme=dark" height="180"/>
