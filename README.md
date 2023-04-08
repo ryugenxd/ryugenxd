@@ -34,4 +34,8 @@
 <img src="https://cdn.worldvectorlogo.com/logos/sqlite.svg" width="100px">
 <img src="https://cdn.worldvectorlogo.com/logos/apache-13.svg" width="100px">
 <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" width="100px">
+<img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="100px">
+<img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="100px">
+<img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="100px">
+<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="100px">
 </div>
