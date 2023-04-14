@@ -22,6 +22,30 @@ class Person {
 
 ```
 
+## SKILL
+
+```json
+{
+  "ProgrammingLanguage": {
+    "java",
+    "python",
+    "javascript",
+    "php",
+    "c++",
+    "Shellscript"
+  },
+  "MarkupLanguage" : {
+    "html",
+    "xml",
+    "markdown"
+  },
+  "StyleSheetLanguage" : {
+    "css"
+    "sass"
+  }
+}
+```
+
 
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" width="100px">
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50px">
