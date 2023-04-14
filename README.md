@@ -2,8 +2,28 @@
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryugenxd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="100%" height="200px">
 <hr>
 </div>
-<div align="center">
-<img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" width="100px">
+
+
+## BIO
+
+```java
+package myprofile;
+
+class Person {
+  String name;
+  int age;
+  String country;
+  public void Person(){
+    name = "ryugen";
+    age = 18;
+    country = "indonesia";
+  }
+}
+
+```
+
+
+<!-- <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" width="100px">
 <img src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg" width="50px">
 <img src="https://cdn.worldvectorlogo.com/logos/git.svg" width="100px">
 <img src="https://cdn.worldvectorlogo.com/logos/php-1.svg" width="100px">
@@ -41,5 +61,4 @@
 <img src="https://cdn.worldvectorlogo.com/logos/bootstrap-5-1.svg" width="100px">
 <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" width="100px">
 <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="100px">
-<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="100px">
-</div>
+<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="100px"> -->
