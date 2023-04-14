@@ -1,3 +1,12 @@
+```cpp
+#include <iostream>
+using namespace std;
+int main(){
+  cout << "in my dream I am a software engineer";
+  return 0;
+}
+```
+---
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryugenxd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="100%" height="200px">
 <hr>
