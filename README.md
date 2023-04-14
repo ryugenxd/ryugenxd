@@ -13,7 +13,7 @@ int main(){
 </div>
 
 
-## BIO
+## 𝙱𝚒𝚘 𝙳𝚊𝚝𝚊
 
 ```java
 package myprofile;
@@ -44,7 +44,7 @@ ___
 
 ___
 
-## SKILL
+## 𝚂𝚔𝚒𝚕𝚕
 
 ```json
 {
