@@ -13,7 +13,8 @@ int main(){
 </div>
 
 
-## 𝙱𝚒𝚘 𝙳𝚊𝚝𝚊
+<details>
+  <summary><h3>𝙱𝚒𝚘 𝙳𝚊𝚝𝚊</h3></summary>
 
 ```java
 package myprofile;
@@ -35,7 +36,9 @@ class Person {
 }
 
 ```
-
+  
+ </details>
+  
 ___
 
 <div align="center">
@@ -44,8 +47,11 @@ ___
 
 ___
 
-## 𝚂𝚔𝚒𝚕𝚕
 
+
+<details>
+  <summary>𝚂𝚔𝚒𝚕𝚕</summary>
+  
 ```json
 {
   "ProgrammingLanguage": {
@@ -67,6 +73,8 @@ ___
   }
 }
 ```
+  
+</details>
 
 
 <!-- <img src="https://cdn.worldvectorlogo.com/logos/nodejs.svg" width="100px">
