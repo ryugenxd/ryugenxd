@@ -1,4 +1,4 @@
-```cpp
+<!--```cpp
 #include <iostream>
 using namespace std;
 int main(){
@@ -9,15 +9,39 @@ int main(){
   }
   return 0;
 }
-```
+```-->
 ---
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryugenxd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="100%" height="200px">
+<img src="https://github-readme-stats.vercel.app/api?username=ryugenXD&&show_icons=true&bg_color=00000000">
 <hr>
 </div>
 
+<h3>𝙱𝚒𝚘 𝙳𝚊𝚝𝚊</h3>
 
-<details>
+```java
+package myprofile;
+
+class Person {
+  String name;
+  int age;
+  String country;
+  public void Person(){
+    name = "ryugen";
+    age = 18;
+    country = "indonesia";
+  }
+  public static String getBio(){
+    return "I'm Ryugen, I enjoy collaborating with friends on Git and Github."+ 
+    "I gain valuable experience by solving issues with bugs and adding new features."+
+    "I prefer working on small features as my abilities aren't as strong as my friends, who help me improve.";
+  }
+}
+
+```
+
+
+<!--<details>
   <summary><h3>𝙱𝚒𝚘 𝙳𝚊𝚝𝚊</h3></summary>
 
 ```java
@@ -41,17 +65,17 @@ class Person {
 
 ```
   
- </details>
+ </details>-->
   
 ___
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ryugenXD&&show_icons=true&bg_color=00000000">
+
 </div>
 
 ___
 
-
+<!--
 
 <details>
   <summary>𝚂𝚔𝚒𝚕𝚕</summary>
@@ -76,7 +100,7 @@ ___
     "sass"
   }
 }
-```
+```-->
   
 </details>
 
