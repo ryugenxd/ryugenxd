@@ -67,13 +67,13 @@ class Person {
   
  </details>-->
   
-___
+<!-- ___
 
 <div align="center">
 
 </div>
 
-___
+___ -->
 
 <!--
 
