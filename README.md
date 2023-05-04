@@ -11,12 +11,12 @@ int main(){
 }
 ```-->
 ---
-<div align="center">
+<!-- <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryugenxd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="100%" height="200px">
 <hr>
 <img src="https://github-readme-stats.vercel.app/api?username=ryugenXD&&show_icons=true&bg_color=00000000">
 <hr>
-</div>
+</div> -->
 
 <h3>𝙱𝚒𝚘 𝙳𝚊𝚝𝚊</h3>
 
