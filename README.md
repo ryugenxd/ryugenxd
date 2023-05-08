@@ -10,6 +10,13 @@ int main(){
   return 0;
 }
 ```-->
+
+<div align="center">
+  <a href="https://github.com/ryugexd">
+          <img height="177em" src="https://github-readme-stats.vercel.app/api?username=ryugenxd&title_color=fff&icon_color=FF0505&text_color=9f9f9f&bg_color=151515&show_icons=true" />
+  </a>
+</div>
+
 ---
 <!-- <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ryugenxd&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" width="100%" height="200px">
