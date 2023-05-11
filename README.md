@@ -10,12 +10,12 @@ int main(){
   return 0;
 }
 ```-->
-
 <div align="center">
-  <a href="https://github.com/ryugexd">
-          <img height="177em" src="https://github-readme-stats.vercel.app/api?username=ryugenxd&title_color=fff&icon_color=FF0505&text_color=9f9f9f&bg_color=151515&show_icons=true" />
+  <a href="https://github.com/ryugenxd">
+    <img src="/programma/computer.png">
   </a>
 </div>
+
 
 ---
 <!-- <div align="center">
@@ -47,8 +47,13 @@ class Person {
 }
 
 ```
+___
 
-
+<div align="center">
+  <a href="https://github.com/ryugexd">
+          <img height="177em" src="https://github-readme-stats.vercel.app/api?username=ryugenxd&title_color=fff&icon_color=FF0505&text_color=9f9f9f&bg_color=151515&show_icons=true" />
+  </a>
+</div>
 <!--<details>
   <summary><h3>𝙱𝚒𝚘 𝙳𝚊𝚝𝚊</h3></summary>
 
