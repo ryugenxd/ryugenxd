@@ -12,7 +12,7 @@ int main(){
 ```-->
 <div align="center">
   <a href="https://github.com/ryugenxd">
-    <img src="/programma/computer.png">
+    <img src="https://img.freepik.com/fotos-premium/elemento-quimico-xenon-signo-numero-atomico-peso-atomico-elemento-tabla-periodica_559531-11998.jpg?w=2000">
   </a>
 </div>
 
