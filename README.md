@@ -50,7 +50,7 @@ class Person {
 ___
 
 <div align="center">
-  <a href="https://github.com/ryugexd">
+  <a href="https://github.com/ryugenxd">
           <img height="177em" src="https://github-readme-stats.vercel.app/api?username=ryugenxd&title_color=FF0000&icon_color=FF0000&text_color=666666&bg_color=151515&show_icons=true" />
   </a>
 </div>
