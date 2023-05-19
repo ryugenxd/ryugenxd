@@ -51,7 +51,7 @@ ___
 
 <div align="center">
   <a href="https://github.com/ryugexd">
-          <img height="177em" src="https://github-readme-stats.vercel.app/api?username=ryugenxd&title_color=fff&icon_color=FF0505&text_color=9f9f9f&bg_color=151515&show_icons=true" />
+          <img height="177em" src="https://github-readme-stats.vercel.app/api?username=ryugenxd&title_color=3D85C6&icon_color=FF0505&text_color=E06666&bg_color=151515&show_icons=true" />
   </a>
 </div>
 <!--<details>
