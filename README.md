@@ -37,7 +37,7 @@ class Person {
   public void Person(){
     name = "ryugen";
     age = 18;
-    country = "indonesia";
+    country = "-";
   }
   public static String getBio(){
     return "I'm Ryugen, I enjoy collaborating with friends on Git and Github."+ 
