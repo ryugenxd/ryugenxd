@@ -1,3 +1,14 @@
 <div align="center">
   <img src="https://cdn3.emoji.gg/emojis/7135-gawrgura-gun-animated.gif"><img src="https://cdnb.artstation.com/p/assets/images/images/005/518/385/original/craig-mullins-zombie-boss-03-attack.gif?1491619967" width="95">
 </div>
+
+----
+
+```
+Python 100%           shell 100%    Pascal 35%
+Javascript 100%       SQL 69%       Ruby 45%
+PHP 100%              XML 100%      Hack 55%
+C 54%                 HTML 100%     
+C++ 75%               CSS 100%
+SASS 76%              JSON 100% :)              
+```
