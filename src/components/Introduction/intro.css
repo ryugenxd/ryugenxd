@@ -1,0 +1,193 @@
+.intro{
+    display: flex;
+    height: 100vh;
+}
+
+.intro-left{
+    flex: 1;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.intro-right{
+    flex: 1;
+    position: relative;
+}
+
+.intro-right::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    /* background-color: rgb(231, 11, 11); */
+    opacity: 0.5;
+    /* clip-path: polygon(16% 6%, 100% 0, 100% 50%, 75% 100%, 48% 84%, 0 94%); */
+    z-index: 99;
+}
+
+.intro-left-wrapper{
+    padding:50px;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.introduction{
+    font-size: 30px;
+    font-weight: 300;
+    color: #ffffff;
+}
+
+.intro-name{
+    position: relative;
+    font-size: 60px;
+}
+
+@keyframes vibration {
+    10%{transform:skewY(10deg);}
+    25%{transform:skewY(-10deg);text-shadow: 0 0 5px rgba(236, 8, 8, 0.5);color: brown;box-shadow: -3px -1px 3px rgb(245, 245, 245),0.3px 0.3px 0.4px rgb(243, 10, 10);}
+    30%{transform:skewY(10deg);}
+    45%{transform:skewY(-10deg);text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);box-shadow: -3px -1px 3px rgb(245, 245, 245),0.3px 0.3px 0.4px white;}
+    50%{transform: skewY(10deg);}
+    65%{transform: skewY(-10deg);text-shadow: 0 0 5px rgba(212, 9, 9, 0.5);color: brown;box-shadow: -3px -1px 3px rgb(245, 245, 245),0.3px 0.3px 0.4px rgb(233, 7, 7);}
+    70%{transform: skewY(10deg);}
+    85%{transform: skewY(-10deg);text-shadow: 0 0 5px rgba(0, 0, 0, 0.5);}
+    90%{transform: skewY(10deg);}
+    100%{transform: skewY(0deg);}
+}
+
+/* .blue-line{
+    height:60px;
+    box-shadow: 0px -1px 0px  red;
+} */
+
+.intro-title{
+    height: 50px;
+    overflow: hidden;
+    margin: 1rem;
+}
+
+.intro-title-wrapper{
+    height: 100%;
+    animation: move 10s ease-in-out infinite alternate;
+}
+
+
+@keyframes move {
+    25%{transform: translateY(-50px);}
+    50%{transform: translateY(-100px);}
+    75%{transform: translateY(-150px);}
+    100%{transform: translateY(-200px);}
+
+}
+
+.intro-title-item{
+    height:50px;
+    font-size: 30px;
+    font-weight: bold;
+    color:#0c6cda;
+    /* background-color: blueviolet; */
+    display: flex;
+    align-items: center;
+}
+
+.intro-title-item:nth-child(1){
+    color: crimson;
+}
+
+.intro-title-item:nth-child(5){
+    color: crimson;
+}
+
+.intro-desc{
+    text-align: center;
+}
+
+.button-wrapper{
+    padding: 1rem;
+    width:100%;
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.button-animation{
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: larger;
+    padding: 1rem;
+    width:150px;
+    text-transform: capitalize;
+}
+
+
+.visit-my-github{
+    text-decoration: none;
+    font-weight: 700;
+    font-size: larger;
+    padding: 1rem;
+    width:150px;
+    background-color: rgba(0, 0, 0, 0.892);
+    text-transform: capitalize;
+    box-shadow: -3px -1px 3px rgba(245, 245, 245, 0.525),0.3px 0.3px 0.4px rgba(255, 255, 255, 0.385);
+    display:inline-block;
+    text-align: center;
+    border-radius: 5px;
+}
+
+
+.intro-background{
+    /* clip-path: polygon(25% 0%, 75% 0%, 100% 50%, 75% 100%, 25% 100%, 0% 50%); */
+    clip-path: polygon(100% 0%, 100% 46%, 100% 100%, 29% 100%, 0% 50%, 33% 0);
+    background-color: #f4f4f4;
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+
+.intro-image{
+    width:100%;
+    height: 100%;
+    object-fit: contain;
+    position: absolute;
+    /* filter: blur(0.10px); */
+    mix-blend-mode: multiply;
+    filter: contrast(90%);
+}
+
+.intro-image:hover{
+    /* filter: grayscale(100%); */
+    filter: blur(1rem);
+    /* filter: hue-rotate(90deg); */
+}
+
+@media only screen and (max-width: 480px) {
+    .intro{
+        flex-direction: column;
+    }
+    .intro-left-wrapper{
+        padding: 10px;
+        align-items: center;
+        justify-content: center;
+        text-align: center;
+        height: 100%;
+    }
+    .intro-title-item{
+        font-size:20px;
+        height: 100%;
+    }
+    .intro-desc{
+        display: none;
+    }
+    .visit-my-github{
+       display: none;
+    }
+}

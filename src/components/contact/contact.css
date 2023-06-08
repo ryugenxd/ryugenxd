@@ -1,0 +1,128 @@
+.contact{
+    height: 100vh;
+    position: relative;
+}
+
+.contact-background{
+    width: 20px;
+    height: 100%;
+    background-color: rgb(31, 135, 214);
+    position: absolute;
+}
+
+.contact-wrapper{
+    padding: 50px;
+    display: flex;
+}
+
+.contact-left{
+    flex: 1;
+}
+.contact-right{
+    flex: 1;
+}
+
+.contact-title{
+    font-size: 60px;
+    width: 80%;
+}
+
+.contact-info{
+    display: flex;
+    flex-direction: column;
+}
+
+.contact-info-item{
+    display: flex;
+    align-items: center;
+    margin: 20px 0px;
+    font-weight: 300;
+    width: 70%;
+}
+
+.contact-icon{
+    width: 30px;
+    height:30px;
+    margin-left: 20px;
+}
+
+.contact-description{
+    font-weight: 200;
+}
+
+form {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
+    margin-top: 20px;
+}
+
+input{
+    background-color: beige;
+    color: black;
+    width: 50%;
+    height: 50px;
+    border: none;
+    border-bottom: 1px solid rgb(237, 17, 17);
+    margin: 10px 0px;
+    font-size: 14px;
+    border-radius: 5px;
+    padding-left: 10px;
+    border:  1px solid rgb(31, 135, 214);
+}
+
+input:focus{
+    outline: none;
+}
+
+textarea{
+    color: black;
+    padding: 1rem;
+    width: 100%;
+    border-radius: 5px;
+    border:  1px solid rgb(31, 135, 214);
+}
+textarea:focus{
+    outline: none;
+}
+
+.button-submit{
+    margin: 1rem 0px;
+    width: 150px;
+    padding: 1rem;
+    background-color: rgb(2, 79, 168);
+    border-radius: 5px;
+    border: 1px solid rgb(31, 135, 214);
+}
+
+@media only screen and (max-width: 480px) {
+    .contact-wrapper{
+        flex-direction: column;
+        padding: 0px 50px;
+    }
+    .contact-title{
+        font-size: 30px;
+    }
+    .contact-info-item{
+        margin: 20px 0px;
+        width: 100%;
+    }
+    .contact-description{
+        display: none;
+    }
+    form{
+        margin-top: 0px;
+        justify-content: start;
+        flex-direction: row;
+        flex-wrap: wrap;
+    }
+    input{
+        width: 35%;
+        margin: 10px;
+        height: 40px;
+    }
+    button{
+        margin-top: 10px;
+    }
+}
