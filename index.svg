@@ -1,16 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="400" height="100">
   <text x="50" y="50" font-size="30" fill="white">
-    <tspan>Animate R</tspan>
-    <tspan dy="0" id="letterR">
-      <set attributeName="fill" to="red" begin="1s" dur="1s" repeatCount="1" fill="freeze"></set>
-    </tspan>
-    <tspan>Animate Y</tspan>
-    <tspan dy="0" id="letterY">
-      <set attributeName="fill" to="red" begin="2s" dur="2s" repeatCount="1" fill="freeze"></set>
-    </tspan>
-    <tspan>Animate U</tspan>
-    <tspan dy="0" id="letterU">
-      <set attributeName="fill" to="red" begin="3s" dur="3s" repeatCount="1" fill="freeze"></set>
-    </tspan>
+    Hello World 
   </text>
 </svg>
