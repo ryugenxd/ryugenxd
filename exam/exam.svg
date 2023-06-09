@@ -1,0 +1,29 @@
+<!-- <svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="300" height="400" stroke="red" stroke-width="2">
+  <text x="150" y="0" font-size="20" text-anchor="middle" dominant-baseline="hanging" fill="#fff">
+   RYUGENXD
+  </text>
+</svg> -->
+ <!-- <path d="M150,100 A50,50 0 1 0 50,100 L50,200 L150,200 Z" stroke="#fff" stroke-width="2" fill="none" />
+  <path d="M100,100
+           L160,100
+           A60,60 0 0 0 40,100
+           Z"
+        stroke="#fff" stroke-width="2" fill="none" transform="rotate(90 100 100)"/> -->
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" width="400" height="400">
+  <circle cx="150" cy="100" r="50" stroke="#fff" stroke-width="2" fill="none" />
+  <text x="150" y="100" font-size="24" font-weight="bold" fill="#fff" dominant-baseline="middle" text-anchor="middle">SS++</text>
+  <path d="M50,150 A150,50 0 0 1 250,100" stroke="#D21312" stroke-width="5" fill="none" transform="rotate(90 100 100)"/>
+  <circle cx="50" cy="50" r="30" fill="red">
+    <animate attributeName="cy" from="50" to="250" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <circle cx="100" cy="100" r="50" fill="red">
+    <animate attributeName="r" from="25" to="50" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <rect x="50" y="50" width="100" height="100" fill="blue">
+    <animateTransform attributeName="transform" attributeType="XML" type="translate" from="0 0" to="0 50" dur="1s" repeatCount="indefinite" direction="alternate" />
+  </rect>
+</svg>
+
+
+
