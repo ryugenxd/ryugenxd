@@ -1,9 +1,10 @@
 <svg width="400" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
             <g>
                 <title>background</title>
-                <rect x="-1" y="-1" width="808" height="202" id="canvas_background" fill="#fff"/>
+                <!-- background  -->
+                <rect x="-1" y="-1" width="808" height="202" id="canvas_background" fill="#D21312"/>
                     <g id="canvasGrid" display="none">
-                <rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(https://github.com/ryugenxd)"/>
+                <rect id="svg_1" width="100%" height="100%" x="0" y="0" stroke-width="0" fill="url(#gridpattern)"/>
                 </g>
             </g>
             <g>
