@@ -10,8 +10,8 @@
 
 ```
 - NODEJS Expert
-- PYHTON Export
-- PHP    Export
+- PYHTON Expert
+- PHP    Expert
 ```
 
 </div>
