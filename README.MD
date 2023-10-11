@@ -4,9 +4,9 @@
 <div align="center">
 
 ```
--NODEJS
--PYHTON
--PHP
+-NODEJS Expert
+-PYHTON Export
+-PHP    Export
 ```
 
 </div>
