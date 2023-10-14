@@ -5,7 +5,7 @@
 <div align="center">
 
 <p>
-  <img src="https://i.pinimg.com/originals/22/8e/41/228e4197a044409439c6802b11aac16c.gif" width="300"/> <img src="https://api.daily.dev/devcards/53b2ccef28cb490f89ac27214269c16a.png?r=2jn" width="200" alt="Ryugen 京's Dev Card"/>
+  <img src="https://i.pinimg.com/originals/22/8e/41/228e4197a044409439c6802b11aac16c.gif" width="400"/>        <img src="https://api.daily.dev/devcards/53b2ccef28cb490f89ac27214269c16a.png?r=2jn" width="200" alt="Ryugen 京's Dev Card"/>
 </p>
 
 </div>
