@@ -3,8 +3,14 @@
 </div>-->
 
 <div align="center">
+
+<p>
   <img src="https://i.pinimg.com/originals/22/8e/41/228e4197a044409439c6802b11aac16c.gif" width="100%"/>
+  <img src="https://api.daily.dev/devcards/53b2ccef28cb490f89ac27214269c16a.png?r=2jn" width="400" alt="Ryugen 京's Dev Card"/>
+</p>
+
 </div>
+
 
 <div align="center">
 
@@ -14,7 +20,7 @@
 - PHP    Expert
 ```
 
-<a href="https://app.daily.dev/ryugenxd"><img src="https://api.daily.dev/devcards/53b2ccef28cb490f89ac27214269c16a.png?r=2jn" width="400" alt="Ryugen 京's Dev Card"/></a>
+
 
 
 </div>
