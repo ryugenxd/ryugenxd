@@ -14,6 +14,8 @@
 - PHP    Expert
 ```
 
+<a href="https://app.daily.dev/ryugenxd"><img src="https://api.daily.dev/devcards/53b2ccef28cb490f89ac27214269c16a.png?r=2jn" width="400" alt="Ryugen 京's Dev Card"/></a>
+
 
 </div>
 
