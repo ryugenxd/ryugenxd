@@ -32,6 +32,6 @@
 [![](https://visitcount.itsvg.in/api?id=ryugenxd&icon=2&color=5)](https://visitcount.itsvg.in)
  
 ![Vim](https://img.shields.io/badge/vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white)
-[![Sublime Text Package Control Badge](http://sublime-badge.nick-hat-boecker.de/badge/{package_name}/{number_to_show})](http://sublime-badge.nick-hat-boecker.de/) 
+![Sublime Text Package Control Badge](https://icons8.com/icon/LMc4x3LakH48/sublime-text)
 ![Editor Config](https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000)
 
