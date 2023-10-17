@@ -31,7 +31,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=ryugenxd&icon=2&color=5)](https://visitcount.itsvg.in)
  
-## 💻 IDE 🔝
-
 ![Vim](https://img.shields.io/badge/vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white)
 <img src="https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000" />
+![Editor Config](https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000)
+
