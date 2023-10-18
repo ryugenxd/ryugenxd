@@ -33,5 +33,5 @@
  
 ![Vim](https://img.shields.io/badge/vim-%23019733.svg?style=for-the-badge&logo=vim&logoColor=white)
 ![Editor Config](https://img.shields.io/badge/Editor%20Config-E0EFEF?style=for-the-badge&logo=editorconfig&logoColor=000)
-[![Laravel](https://img.shields.io/badge/Laravel-Project-orange.svg?logo=laravel)](https://laravel.com/)
+[![Laravel](https://img.shields.io/badge/Laravel-Project-orange.svg?style=for-the-badge&logo=laravel)](https://laravel.com/)
 
