@@ -26,6 +26,7 @@
 </div>
 
 <br>
+<a href="https://app.daily.dev/ryugenxd"><img src="https://api.daily.dev/devcards/v2/J2vM446zBlUMPCHZfZ2eK.png?r=7ry&type=wide" width="652" alt="Ryugen 京's Dev Card"/></a>
 
 [![An image of @ryugenxd's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/ryugenxd)](https://holopin.io/@ryugenxd)
 
