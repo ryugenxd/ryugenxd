@@ -1,5 +1,5 @@
 <div align="center">
 
-![aboutme](./aboutme.svg)
+<img src="./aboutme.svg" width="100%"/>
 
 </div>
