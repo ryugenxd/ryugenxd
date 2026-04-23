@@ -1,3 +1,2 @@
-```
-Kebangkita Kesadaran Ilham Dari Sang Maha kuasa!
-```
+
+Kebangkita Kesadaran Dari Tidur Yang Panjang Ilham Dari Sang Maha Kuasa!
