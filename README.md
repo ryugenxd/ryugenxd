@@ -1,2 +1,2 @@
 
-Kebangkita Kesadaran Dari Tidur Yang Panjang Ilham Dari Sang Maha Kuasa!
+Kebangkitan Kesadaran Dari Tidur Yang Panjang Ilham Dari Sang Maha Kuasa!
