@@ -1,1 +1,1 @@
-Professional freelancer & Business Man
+Professional Freelancer & Business Man
